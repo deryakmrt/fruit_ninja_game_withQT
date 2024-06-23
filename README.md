@@ -1,5 +1,5 @@
-# 2023-2024 BAHAR YARIYILI GÖRSEL PROGRAMLAMA DERSİ LABORATUVAR UYGULAMASI  
-Aşağıda ekran görüntüsü olan Fruit Ninja oyunu benzeri bir oyun yapılacaktır. Oyunda olması gerekenler aşağıdaki gibidir:  
+# Fruit Ninja oyunu 
+benzeri bir oyun yapılacaktır. Oyunda olması gerekenler aşağıdaki gibidir:  
 
 • Oyun esnasında konumlar.txt dosyasından okunan konumlara göre belli aralıklarla rastgele olarak karpuzlar ekrana gelecektir.  
 
