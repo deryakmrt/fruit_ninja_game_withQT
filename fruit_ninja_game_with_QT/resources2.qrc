@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/txt">
+        <file>txtler/skorlar.txt</file>
+        <file>txtler/konumlar.txt</file>
+    </qresource>
+</RCC>
